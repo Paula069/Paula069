@@ -1,15 +1,1 @@
-# 💫 About Me:
-Soy estudiante de Ingeniería de Sistemas en noveno semestre, apasionada por el análisis de datos, la gestión de proyectos y el desarrollo de aplicaciones. Actualmente estoy perfeccionando mis habilidades en programación y explorando áreas como Java, Python, y herramientas de Business Intelligence. Busco oportunidades para crecer profesionalmente y contribuir al mundo de la tecnología.<br><br>🔭 Estoy trabajando en aplicar mis habilidades en análisis de datos, desarrollo de software y gestión de proyectos. Me entusiasma enfrentar nuevos retos y contribuir a proyectos reales que me permitan seguir aprendiendo.<br><br>🌱 Actualmente, sigo aprendiendo sobre herramientas como Excel y Power BI para análisis de datos, y ampliando mis conocimientos en Java y Python para el desarrollo de aplicaciones.<br><br>👯 Me gustaría colaborar en proyectos que desafíen mis habilidades y permitan contribuir al desarrollo de soluciones innovadoras en el campo de la tecnología y la gestión.<br><br>⚡ Curiosidad: Me interesa aprender más sobre finanzas personales y explorar herramientas tecnológicas innovadoras.
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Andrea Rios &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Andrea Rios &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea Rios &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Andrea Rios &icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+"# mycashamapp-assets" 
